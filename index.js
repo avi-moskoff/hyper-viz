@@ -1,12 +1,12 @@
 let overlay;
 
 const colors = [
-  "#5e81ac",
-  "#bf616a",
-  "#d08770",
-  "#ebcb8b",
-  "#a3be8c",
-  "#b48ead",
+  "#5e81ac", // blue
+  "#bf616a", // red
+  "#d08770", // orange
+  "#ebcb8b", // yellow
+  "#a3be8c", // green
+  "#b48ead", // purple
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
