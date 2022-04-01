@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+show_downloads: false
+github:
+  zip_url: dist/bundle.min.js.zip
+  dark_url: dist/dark.css
+  dark_url: dist/light.css
+
